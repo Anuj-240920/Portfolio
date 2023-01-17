@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-    background-color: rgb(0, 214, 114);
+    background-color: rgba(0, 214, 114, 0.445);
     border-radius: 12px;
     text-transform: capitalize
 }
@@ -89,6 +89,7 @@ footer{
     background-color: rgb(141, 238, 154);
     color: rgb(219, 50, 50);
     position: relative;
+    bottom: 0;
 }
 .footerr {
     text-align: center;
