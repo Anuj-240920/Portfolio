@@ -31,7 +31,7 @@ body {
     font-size: 26px;
     border: 1px solid none;
     border-radius: 12px;
-    color: rgb(30, 97, 156);
+    color: rgb(255, 72, 0);
     text-decoration: none;
 }
 
@@ -71,6 +71,7 @@ body {
 .td2 {
     background-color: rgba(0, 24, 46, 0.863);
     border-radius: 10px;
+    width: 100opx;
 }
 /* .img{
     width: 35%; */
@@ -82,13 +83,13 @@ body {
     width: 30%;
     height: auto;
 }
-footer {
+footer{
     text-align: center;
     padding: 3px;
-    background-color: DarkSalmon;
-    color: white;
+    background-color: rgb(141, 238, 154);
+    color: rgb(219, 50, 50);
     position: relative;
-  }
+}
 .footerr {
     text-align: center;
     padding: 3px;
